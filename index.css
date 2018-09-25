@@ -1,0 +1,44 @@
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+table, th, td {
+  font: Helvetica, sans-serif;
+  font-size: 1em;
+  color: blue;
+}
+
+div p {
+  font-size: 1em;
+}
+
+.intro {
+  background-color: #d7e0ef;
+}
+
+h1, h3 {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+  padding: 0.4em;
+}
+
+li {
+  padding: 0.4em;
+}
+
+#satellites-types {
+  font-size: 1.5em;
+}
+
+/*# sourceMappingURL=index.css.map */
