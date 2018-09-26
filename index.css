@@ -13,7 +13,7 @@ div p {
 }
 
 .intro {
-  background-color: #d7e0ef;
+  font-style: italic;
 }
 
 h1, h3 {
@@ -31,6 +31,7 @@ table {
 table, th, td {
   border: 1px solid black;
   padding: 0.4em;
+  background-color: #d7e0ef;
 }
 
 li {
